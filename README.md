@@ -35,7 +35,6 @@ Here are some ideas to get you started:
     
   
   <h1 align="center">Redes Sociais</h1>
-       <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <a href = "mailto:netoifpe@gmail.com">
       <img width="30" src="./src/assets/img/gmail.svg">
     </a>
