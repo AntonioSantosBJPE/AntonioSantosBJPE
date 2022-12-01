@@ -35,15 +35,14 @@ Here are some ideas to get you started:
     
   
   <h1 align="center">Redes Sociais</h1>
-        <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       
       <a href = "mailto:netoifpe@gmail.com">
       <img width="30" src="./src/assets/img/gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/antonio-santos-b934a479/">
       <img width="25" src="./src/assets/img/linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/netinho_dosantos/">
-      <img width="25" src="./src/assets/img/instagram.png">
-    </a>
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
   
 </div>
