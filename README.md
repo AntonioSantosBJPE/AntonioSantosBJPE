@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <a href = "mailto:netoifpe@gmail.com">
       <img width="30" src="./src/assets/img/gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/antonio-santos-b934a479/">
+    <a href = "https://www.linkedin.com/in/antonio-santos-bjpe/">
       <img width="25" src="./src/assets/img/linkedin.svg">
     </a>
       
