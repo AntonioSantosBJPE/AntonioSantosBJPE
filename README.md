@@ -52,19 +52,138 @@ Here are some ideas to get you started:
 
 - 🌱 No momento estou estudando o **módulo de back-end do curso de desenvolvimento web da Kenzie Academy Brasil.**
 
-- 👯 Estou em busca de oportunidades como **desenvolvedor front-end júnior**
+- 👯 Estou em busca de oportunidades como **desenvolvedor full-stack júnior**
 
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Node.js, SQL, PostgreSQL, TypeOrm, Python, lógica de programação**
 
 - 📫 Como chegar até mim **netoifpe@gmail.com**
 
 
 
-<div  align="center"> 
+<div  align="center" style="display:flex" > 
 <h3 align="center">Linguagens e ferramentas:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+ <span>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://img.stackshare.io/service/5936/nextjs.png"
+          alt="nextjs"
+          width="40"
+          height="40"
+        />
+      </a>
+</span>
+  
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://th.bing.com/th/id/R.d42672d4d185739d26257ed5c653c740?rik=rEXYValDvbZk4Q&pid=ImgRaw&r=0"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://th.bing.com/th/id/OIP.1ji9NLQl3sOXktSoEYnt3wHaHa?pid=ImgDet&rs=1"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <span>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://mlsf03rmjfdn.i.optimole.com/fVWTwdQ.Z_5R~130ed/w:300/h:300/q:90/https://www.wbscodingschool.com/files/SQL-logo.png" alt="sql" width="40"     height="40" />
+  </a>
+  </span>
+  
+  <span>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  </span>
+  
+   <span>
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest"  width="40" height="40" />
+  </a>
+  </span>
+  
+  <span>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+   </span>
+   
+   
+   <span>
+     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/django.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
+   </span>
+   
+   
 </div>
-
 <div  align="center"> 
   
   <img  height="160px" width="360px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonioSantosBJPE&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
