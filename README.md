@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 
 - 🔭Atualmente estou trabalhando **como monitor de alunos na Kenzie Academy Brasil**
 
-- 🌱 No momento estou estudando o **módulo de back-end do curso de desenvolvimento web da Kenzie Academy Brasil.**
+- 🌱 No momento estou estudando o **Next.js 13.4 e Nest.js**
 
 - 👯 Estou em busca de oportunidades como **desenvolvedor full-stack júnior**
 
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Node.js, SQL, PostgreSQL, TypeOrm, Python, lógica de programação**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Next.js, Node.js, SQL, PostgreSQL, TypeOrm, Prisma, Python, lógica de programação**
 
 - 📫 Como chegar até mim **netoifpe@gmail.com**
 
