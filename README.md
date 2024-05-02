@@ -46,15 +46,15 @@ Here are some ideas to get you started:
  -->
  
  <h1 align="center">Olá 👋, Eu sou Antonio Santos</h1>
-<h3 align="center">Um desenvolvedor front-end, apaixonado por lógica de programação!</h3>
+<h3 align="center">Um desenvolvedor full-stack, apaixonado por lógica de programação!</h3>
 
-- 🔭Atualmente estou trabalhando **como monitor de alunos na Kenzie Academy Brasil**
+- 🔭Atualmente estou trabalhando **Front-end Tech lead na Jet Soluções Web**
 
-- 🌱 No momento estou estudando o **Next.js 13.4 e Nest.js**
+- 🌱 No momento estou estudando o **React Native**
 
-- 👯 Estou em busca de oportunidades como **desenvolvedor full-stack júnior**
+- 👯 Estou em busca de oportunidades como **desenvolvedor full-stack júnior ou pleno**
 
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Next.js, Node.js, SQL, PostgreSQL, TypeOrm, Prisma, Python, lógica de programação**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Next.js, Node.js, Nest.js, SQL, PostgreSQL, TypeOrm, Prisma, Python, lógica de programação**
 
 - 📫 Como chegar até mim **netoifpe@gmail.com**
 
